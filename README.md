@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrazyAndromeda
-- 👀 I’m interested in astrophysic and autommotive
+- 👀 I’m interested in astrophysic and automotive
 - 🌱 I’m currently learning Python, SQL, DAX(Power BI)
 
 
